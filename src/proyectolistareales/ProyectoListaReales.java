@@ -26,6 +26,7 @@ public class ProyectoListaReales {
             System.out.println("«[7] Orden ascendente»");
             System.out.println("«[8] Orden descendente»");
             System.out.println("«[9] Salir»");
+            System.out.println("«[9] Salir»");
             System.out.print("«Ingrese opcion (1-9): «");
             opcion = entrada.nextInt();
             switch (opcion) {
